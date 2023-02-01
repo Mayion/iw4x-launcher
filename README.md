@@ -14,16 +14,12 @@ HOW TO: Download the latest version from https://github.com/Mayion/iw4x-launcher
 
 4)  Fixes Menu bug when switching between 0.6.x to 0.7.5 and vice-versa, as well as backing up GUID files for different game versions.
 
+
+https://user-images.githubusercontent.com/30006616/216014144-a580fbd0-89d7-4837-bc7d-9677b2dac1ea.mp4
+
+
 https://www.youtube.com/watch?v=wjFoK2xfMsQ
 
-Version Updating:
-
-![Launcher Preview](https://i.imgur.com/1rNj31F.gif)
-
-
-Server notifying and GUID backup:
-
-![Launcher Preview](https://i.imgur.com/q3MLKFi.gif)
 
 
 Project was wrote overnight while I was sick, so do not expect it to be good looking in terms of code or UI. Just gets the job done. Feel free to do whatever you want with it. 
