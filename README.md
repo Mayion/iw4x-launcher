@@ -1,7 +1,8 @@
-# iw4x-launcher
 # This project is not affiliated in any way with X Labs or Infinity Ward.
 
 Manager for the IW4x game client in Русский and English.
+
+HOW TO: Download the latest version from https://github.com/Mayion/iw4x-launcher/releases and extract the files in your MW2 IW4x directory, then run iw4x-launcher.exe.
 
 1)  Server list that allows you to select a server and launch the game to it immediately.
 
@@ -23,3 +24,6 @@ Version Updating:
 Server notifying and GUID backup:
 
 ![Launcher Preview](https://i.imgur.com/q3MLKFi.gif)
+
+
+Project was wrote overnight while I was sick, so do not expect it to be good looking in terms of code or UI. Just gets the job done. Feel free to do whatever you want with it. 
