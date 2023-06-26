@@ -521,9 +521,6 @@ namespace iw4x_launcher
                     {
                         p.StartInfo.Arguments = "iw4x://" + ip + "/";
                     }
-
-                    //p.StartInfo.Arguments = "iw4x://" + ip + "/ +set connect 46.8.158.151:28962; password 2698";
-                    //connect 46.8.158.151:28962; password 2698
                 }
 
                 if (f.applyMenuUpdate)
